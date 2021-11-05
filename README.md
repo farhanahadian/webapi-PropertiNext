@@ -1,6 +1,5 @@
-# TypeScript + Express + Sequelize Boilerplate
+# PropertiNext Website API
 
-boilerplate to start to develop express platform very easily with TypeScript & Sequelize
 
 ## Getting started
 
